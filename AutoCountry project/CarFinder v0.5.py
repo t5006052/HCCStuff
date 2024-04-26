@@ -1,5 +1,5 @@
 #READ THIS FIRST
-#it is crucial tht AVLv5.txt is in the SAME FOLDER as this file or else it will throw a cannot find file error
+#it is crucial tht AVLv0.5.txt is in the SAME FOLDER as this file or else it will throw a cannot find file error
 #thank you!
 import os
 avl = []
